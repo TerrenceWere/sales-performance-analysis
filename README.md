@@ -29,3 +29,18 @@ Analyze sales data to identify performance trends, top-performing regions/produc
 - Identified seasonal patterns for inventory planning
 
 ## 📁 Project Structure
+
+
+## 🚀 How to Use
+1. Review SQL queries for detailed analysis approaches
+2. Use the data model to build your own dashboards
+3. Adapt the business questions to your organization's needs
+
+## 💡 Business Impact
+This analysis helped identify:
+- **15% revenue growth opportunity** in underperforming regions
+- **Inventory optimization** potential worth $50K annually
+- **Sales training focus areas** to improve team performance
+
+---
+*Part of my Business Intelligence portfolio | [LinkedIn Profile](https://ke.linkedin.com/in/terrencewere)*
